@@ -1,3 +1,5 @@
 pineapple
-apple
+banana
 melon
+cherry
+strawberry
